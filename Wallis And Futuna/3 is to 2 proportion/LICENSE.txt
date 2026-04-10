@@ -1,0 +1,54 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission. But it is appreciated, professional,
+and more educational if you give attribution. :)
+
+WORK DEDICATED TO PUBLIC DOMAIN:
+---------------------------------
+File:    Wallis_And_Futuna_(3_is_to_2_proportion).png
+Creator: [Your Name / GitHub Username]
+Year:    2025
+
+DESCRIPTION OF WORK:
+---------------------
+Flag of Wallis and Futuna, edited and corrected for proper proportions (3:2).
+The French Tricolour flag has an official proportion of 3:2. However, the
+French Ensign (canton) embedded in the Wallis and Futuna flag on Wikimedia
+was not correctly proportioned to reflect this 3:2 ratio. This version
+corrects that by:
+
+  - Taking the Wallis and Futuna flag base layout
+  - Removing the incorrectly proportioned French Ensign canton
+  - Replacing it with a correctly proportioned 3:2 French Ensign sourced
+    from the flag of French Southern and Antarctic Territories (which
+    contains a correctly proportioned French Ensign)
+  - Composited and edited using Paint.NET
+
+SOURCE MATERIALS (both Public Domain):
+---------------------------------------
+1. Flag of Wallis and Futuna
+   Source: Wikimedia Commons
+   License: Public Domain (official government flag/insignia)
+
+2. French Ensign (sourced from Flag of French Southern and Antarctic Territories)
+   Source: Wikimedia Commons
+   License: Public Domain (official government flag/insignia)
+
+Both source flags are official government insignia and therefore are not
+subject to copyright protection.
+
+NOTES:
+------
+This work is based entirely on Public Domain source materials.
+The creator waives all copyright and related rights to this work
+under CC0 1.0.
+
+For more information, see:
+https://creativecommons.org/publicdomain/zero/1.0/
