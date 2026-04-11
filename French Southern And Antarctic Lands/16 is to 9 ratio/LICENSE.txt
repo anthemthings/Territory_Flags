@@ -18,7 +18,7 @@ Year:    2026
 
 DESCRIPTION OF WORK:
 ---------------------
-Flag of the 226 French Southern And Antarctic Lands
+Flag of the  French Southern And Antarctic Lands
 Recreated and modified at 1920x1080 resolution using:
   - File:Flag of the French Southern and Antarctic Lands.svg
   - Paint.NET (MIT License)
