@@ -12,23 +12,23 @@ and more educational if you give attribution. :)
 
 WORK DEDICATED TO PUBLIC DOMAIN:
 ---------------------------------
-File:    Wallis And Futuna (3 is to 2 proportion).png
+File:    Wallis And Futuna (3 is to 2 ratio).png
 Creator: anthemthings
 Year:    2026
 
 DESCRIPTION OF WORK:
 ---------------------
-Flag of Wallis and Futuna, edited and corrected for proper proportions (3:2).
-The French Tricolour flag has an official proportion of 3:2. However, the
+Flag of Wallis and Futuna, edited and corrected for proper ratio (3:2).
+The French Tricolour flag has an official ratio of 3:2. However, the
 French Ensign (canton) embedded in the Wallis and Futuna flag on Wikimedia
 was not correctly proportioned to reflect this 3:2 ratio. This version
 corrects that by:
 
   - Taking the Wallis and Futuna flag base layout
-  - Removing the incorrectly proportioned French Ensign canton
-  - Replacing it with a correctly proportioned 3:2 French Ensign sourced
+  - Removing the incorrect ratio of French Ensign canton
+  - Replacing it with a correct ratio 3:2 French Ensign sourced
     from the flag of French Southern and Antarctic Territories (which
-    contains a correctly proportioned French Ensign)
+    contains a correct ratio French Ensign)
   - Composited and edited using Paint.NET
 
 SOURCE MATERIALS (both Public Domain):
