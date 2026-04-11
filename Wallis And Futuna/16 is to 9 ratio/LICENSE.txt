@@ -20,7 +20,7 @@ DESCRIPTION OF WORK:
 ---------------------
 Flag of Wallis and Futuna, resized to 1920x1080 (16:9).
 This file is a derivative of the creator's own corrected 3:2 version
-(Wallis And Futuna (3 is to 2 proportion).png).
+(Wallis And Futuna (3 is to 2 ratio).png).
 
 DERIVATIVE CHAIN:
 -----------------
@@ -30,16 +30,16 @@ DERIVATIVE CHAIN:
 2. French Ensign sourced from Flag of French Southern and Antarctic Territories
    (Wikimedia Commons)
    License: Public Domain (official government insignia)
-   Reason: To correct the improperly proportioned French Ensign (canton)
+   Reason: To correct the improper ratio of French Ensign (canton)
            in the original Wikimedia version of the Wallis and Futuna flag.
 
-3. Wallis_And_Futuna_(3_is_to_2_proportion).png
-   Creator: [Your Name / GitHub Username]
+3. Wallis And Futuna (3 is to 2 ratio).png
+   Creator: anthemthings
    License: CC0 (Public Domain)
    Changes: Corrected French Ensign canton to proper 3:2 proportion
 
 4. THIS FILE — Wallis_And_Futuna.png
-   Creator: [Your Name / GitHub Username]
+   Creator: anthemthings
    License: CC0 (Public Domain)
    Changes: Resized to 1920x1080 (16:9) for YouTube using Paint.NET
 
