@@ -21,8 +21,7 @@ DESCRIPTION OF WORK:
 Flag of Wallis and Futuna, edited and corrected for proper ratio (3:2).
 The French Tricolour flag has an official ratio of 3:2. However, the
 French Ensign (canton) embedded in the Wallis and Futuna flag on Wikimedia
-was not correctly proportioned to reflect this 3:2 ratio. This version
-corrects that by:
+was not in the 3:2 ratio. This version corrects that by:
 
   - Taking the Wallis and Futuna flag base layout
   - Removing the incorrect ratio of French Ensign canton
